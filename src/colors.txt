@@ -1,0 +1,2 @@
+primary hex = #6aceef
+hat  color =#3F5A70
